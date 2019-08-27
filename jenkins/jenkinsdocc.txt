@@ -1,0 +1,10 @@
+java -version
+goto downlods->
+java -jar jenkins.war
+
+
+
+
+
+
+4728e74cb7de49fda1202e139779c55c
